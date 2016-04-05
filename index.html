@@ -1,1 +1,44 @@
-My Page
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>pp-tw-viz</title>
+        <script src="js/svg-pan-zoom.min.js" charset="utf-8"></script>
+        <style media="screen">
+body {
+    padding: 0;
+    margin: 0;
+}
+#graph {
+    width: 100vw;
+    height: 100vh;
+}
+.float {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+        </style>
+    </head>
+    <body>
+        <object id="graph" data="g2.svg" type="image/svg+xml" style="">
+            Your browser does not support SVG
+        </object>
+        <div class="float">
+            <ul>
+                <li>顏色 - 黃:離案公司; 藍:持股自然人</li>
+                <li>大小 - Betweenness Centrality (節點位置重要程度)</li>
+                <li>本圖僅保留重要程度較高的節點(佔總資料)</li>
+            </ul>
+        </div>
+        <script>
+document.getElementById("graph").addEventListener("load", function(){
+    var pz = svgPanZoom(document.getElementById("graph"), {
+        controlIconsEnabled: true,
+        minZoom: 0.1
+    });
+})
+        </script>
+    </body>
+</html>

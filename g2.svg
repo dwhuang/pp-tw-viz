@@ -1,0 +1,3084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="6357.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-3075.000000 -2874.000000 6357.000000 5810.000000" height="5810.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 793.551025,1819.209595 L 717.059814,1896.596069"
+              class="44916 129379" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 793.551025,1819.209595 L 946.134949,1740.727417"
+              class="44916 131449" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 793.551025,1819.209595 L 687.546387,1833.946045"
+              class="44916 135969" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1308.579956,-859.881714 L -1387.837036,-766.371521"
+              class="167896 100383" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1308.579956,-859.881714 L -1255.192627,-940.765747"
+              class="167896 117024" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.715866,-450.395020 L 37.405663,-237.033295"
+              class="40261 211664" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 96.715866,-450.395020 L 143.622009,-626.294983"
+              class="40261 207762" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 464.266846,-62.740475 L 587.314514,-84.628166"
+              class="197662 23142" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.785767,-41.273972 L 464.266846,-62.740475"
+              class="40570 197662" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 833.259277,-2025.828003 L 926.036926,-1899.284790"
+              class="168637 98351" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 833.259277,-2025.828003 L 763.959473,-2117.595947"
+              class="168637 43472" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2245.746826,191.652847 L 2173.873779,119.936829"
+              class="132298 56902" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1516.698730,1581.797363 L 1443.358398,1553.277222"
+              class="171313 118526" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -354.159210,-627.388611 L -391.082855,-804.609497"
+              class="21243 201400" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -415.840485,-955.918457 L -391.082855,-804.609497"
+              class="21784 201400" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -370.506744,-1077.958740 L -415.840485,-955.918457"
+              class="201378 21784" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -370.506744,-1077.958740 L -327.540222,-1172.897827"
+              class="201378 21064" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2383.229004,-708.783508 L -2316.136230,-664.387573"
+              class="124471 84314" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1587.236084,684.592041 L -1643.627563,742.643738"
+              class="44587 133109" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1587.236084,684.592041 L -1526.932129,606.947571"
+              class="44587 127599" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 807.027283,159.571320 L 939.706909,177.639481"
+              class="224830 20585" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 807.027283,159.571320 L 641.643311,130.341553"
+              class="224830 21247" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1426.398193,2327.788574 L -1532.137695,2324.196777"
+              class="65943 162012" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1426.398193,2327.788574 L -1349.880371,2363.735596"
+              class="65943 172305" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1426.398193,2327.788574 L -1349.875488,2291.357666"
+              class="65943 172109" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -415.840485,-955.918457 L -349.547058,-735.343445"
+              class="21784 201748" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -415.840485,-955.918457 L -427.876038,-1154.280762"
+              class="21784 201733" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -415.840485,-955.918457 L -545.689758,-1040.256104"
+              class="21784 201285" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1573.821411,-938.788269 L -1704.578613,-966.714722"
+              class="60228 129483" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1573.821411,-938.788269 L -1468.310913,-867.841370"
+              class="60228 129493" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1036.390625,-1742.816406 L 1161.011597,-1555.877441"
+              class="171939 116069" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1036.390625,-1742.816406 L 926.036926,-1899.284790"
+              class="171939 98351" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2173.873779,119.936829 L 2073.514404,31.117224"
+              class="56902 171617" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1441.249390,-453.897125 L -1524.628540,-330.548218"
+              class="41593 137929" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1441.249390,-453.897125 L -1404.826172,-608.518616"
+              class="41593 168896" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1441.249390,-453.897125 L -1377.211182,-395.661255"
+              class="41593 133151" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3007.847656,-528.151550 L -2935.607422,-525.834351"
+              class="137218 61408" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 431.186371,-161.797897 L 528.099243,-246.110931"
+              class="208714 23298" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 431.186371,-161.797897 L 292.785767,-41.273972"
+              class="208714 40570" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.643311,130.341553 L 439.951111,92.387161"
+              class="21247 199170" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -354.159210,-627.388611 L -305.247528,-432.164948"
+              class="21243 214644" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1414.715332,1723.514526 L 1370.281738,1651.533325"
+              class="136015 46762" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.193237,137.113586 L -230.625732,260.990753"
+              class="201199 22184" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.193237,137.113586 L -36.625317,4.189773"
+              class="201199 20151" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1103.637329,-1210.272461 L 1009.875122,-1328.318115"
+              class="173631 85756" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1103.637329,-1210.272461 L 1207.999634,-1064.312134"
+              class="173631 122148" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1896.812134,-1047.300049 L -1849.372314,-967.460754"
+              class="129595 96640" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1216.052979,1624.975342"
+              class="153845 78838" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1377.493530,-814.841736 L 1443.542236,-761.018494"
+              class="60849 125317" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1377.493530,-814.841736 L 1308.539551,-888.897461"
+              class="60849 170335" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1009.875122,-1328.318115 L 936.635681,-1414.999878"
+              class="85756 173578" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1526.932129,606.947571 L -1472.128662,514.743774"
+              class="127599 56232" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1779.428223,-157.339050 L 1563.915771,-254.078217"
+              class="173322 41754" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1779.428223,-157.339050 L 1876.619751,-92.543274"
+              class="173322 73004" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1779.428223,-157.339050 L 1941.108887,-81.145775"
+              class="173322 110253" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1266.721191,-1511.403320 L 1242.357056,-1639.186157"
+              class="69662 174214" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1266.721191,-1511.403320 L 1298.804565,-1341.663086"
+              class="69662 174187" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1610.441650,1262.075806 L -1602.685059,1361.355469"
+              class="222687 21137" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1610.441650,1262.075806 L -1672.666992,1205.559082"
+              class="222687 20617" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1610.441650,1262.075806 L -1543.539063,1223.718750"
+              class="222687 23497" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 160.192535,148.667984 L 334.044495,280.935028"
+              class="230546 22922" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 160.192535,148.667984 L -36.625317,4.189773"
+              class="230546 20151" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -47.109528,-365.949097 L -43.445606,-192.028946"
+              class="29187 226794" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -47.109528,-365.949097 L -57.565670,-489.529419"
+              class="29187 226798" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1564.014160,298.958954 L -1651.518799,74.302673"
+              class="144032 87533" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1564.014160,298.958954 L -1472.128662,514.743774"
+              class="144032 56232" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1685.182251,1441.260986 L -1613.743774,1466.237549"
+              class="21178 227663" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1999.841187,-580.468384 L -2068.318604,-570.187744"
+              class="149477 60617" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1999.841187,-580.468384 L -1923.239258,-628.429932"
+              class="149477 122372" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2563.063232,-584.631714 L -2446.623779,-617.837952"
+              class="74736 140225" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2563.063232,-584.631714 L -2667.169189,-560.813110"
+              class="74736 151241" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.056244,744.606934 L 355.007751,523.681763"
+              class="20914 214611" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.056244,744.606934 L 173.853348,765.007690"
+              class="20914 199078" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.056244,744.606934 L 430.435669,857.682129"
+              class="20914 232638" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.056244,744.606934 L 379.262909,885.469910"
+              class="20914 227284" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -265.462952,-504.785400 L -349.547058,-735.343445"
+              class="20916 201748" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -265.462952,-504.785400 L -161.478104,-259.512909"
+              class="20916 214519" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1243.042969,869.557434 L -1256.402466,956.518555"
+              class="91966 148774" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1243.042969,869.557434 L -1182.972656,989.455811"
+              class="91966 139215" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1243.042969,869.557434 L -1139.246704,949.373962"
+              class="91966 171010" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1243.042969,869.557434 L -1353.396240,695.856628"
+              class="91966 174029" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1815.302734,-1121.596924 L -1735.767822,-1216.610229"
+              class="143576 108498" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1815.302734,-1121.596924 L -1849.372314,-967.460754"
+              class="143576 96640" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1500.658325,367.218353 L 1522.200317,271.576660"
+              class="163135 58471" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1395.530762,-666.324036 L 1488.369141,-460.266663"
+              class="42228 171680" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1395.530762,-666.324036 L 1308.539551,-888.897461"
+              class="42228 170335" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1223.839111,-966.876099 L 1141.146362,-1028.190063"
+              class="38937 173710" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1223.839111,-966.876099 L 1308.539551,-888.897461"
+              class="38937 170335" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 787.685913,2585.171631 L 878.387939,2513.841797"
+              class="90575 176625" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 787.685913,2585.171631 L 731.221619,2629.393311"
+              class="90575 148243" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1848.404297,-691.489868 L -1825.745117,-426.293976"
+              class="131859 95385" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1848.404297,-691.489868 L -1923.239258,-628.429932"
+              class="131859 122372" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1848.404297,-691.489868 L -1849.372314,-967.460754"
+              class="131859 96640" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1681.423950,-1327.100220 L -1735.767822,-1216.610229"
+              class="133535 108498" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2632.606689,-1946.257568 L 2590.669189,-1888.927368"
+              class="232233 21136" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.951111,92.387161 L 379.137543,-76.280602"
+              class="199170 21153" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.951111,92.387161 L 292.785767,-41.273972"
+              class="199170 40570" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.951111,92.387161 L 334.044495,280.935028"
+              class="199170 22922" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.951111,92.387161 L 542.665771,144.127426"
+              class="199170 24565" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1876.619751,-92.543274 L 1951.394043,-9.279311"
+              class="73004 170503" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -138.633957,-122.829849 L -226.003342,-221.886276"
+              class="204008 22282" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -138.633957,-122.829849 L -36.625317,4.189773"
+              class="204008 20151" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -596.123901,665.486694 L -517.166260,541.796509"
+              class="225925 26046" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -596.123901,665.486694 L -601.755249,767.382141"
+              class="225925 20828" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2833.994385,-643.527893 L 2870.945557,-578.317017"
+              class="88608 161406" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1613.743774,1466.237549 L -1602.685059,1361.355469"
+              class="227663 21137" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1613.743774,1466.237549 L -1598.642822,1578.151855"
+              class="227663 20281" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -661.134033,-1103.670410 L -767.294067,-1137.639893"
+              class="21069 215661" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -661.134033,-1103.670410 L -545.689758,-1040.256104"
+              class="21069 201285" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.430298,-235.400925 L 108.226379,-314.719513"
+              class="209528 21165" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.430298,-235.400925 L 379.137543,-76.280602"
+              class="209528 21153" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1109.768677,1038.659790 L -1182.972656,989.455811"
+              class="117494 139215" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1109.768677,1038.659790 L -1139.246704,949.373962"
+              class="117494 171010" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1524.628540,-330.548218 L -1622.965942,-231.320953"
+              class="137929 113979" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1943.463745,-887.958252 L -2055.546631,-830.193298"
+              class="130999 39925" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1943.463745,-887.958252 L -1849.372314,-967.460754"
+              class="130999 96640" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.365292,284.455597 L 1.400340,157.688400"
+              class="22817 229537" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -527.330444,288.654419 L -399.984039,280.827240"
+              class="22999 231792" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2866.838135,-1472.537720 L 2898.163086,-1422.750610"
+              class="129915 43420" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -601.755249,767.382141 L -512.690063,735.025146"
+              class="20828 195002" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1563.915771,-254.078217 L 1681.422119,-300.616852"
+              class="41754 171926" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1443.358398,1553.277222"
+              class="153845 118526" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2763.602783,-542.424683 L -2853.417236,-530.448425"
+              class="108676 145651" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2935.607422,-525.834351 L -2853.417236,-530.448425"
+              class="61408 145651" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1563.915771,-254.078217 L 1488.369141,-460.266663"
+              class="41754 171680" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1114.434814,1629.112061 L 946.134949,1740.727417"
+              class="116924 131449" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1114.434814,1629.112061"
+              class="153845 116924" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -423.096558,-1325.769287 L -427.876038,-1154.280762"
+              class="23491 201733" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -423.096558,-1325.769287 L -409.361511,-1464.969971"
+              class="23491 215946" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1446.317627,865.725647 L 1374.464355,1191.776733"
+              class="170007 53581" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1446.317627,865.725647 L 1504.802979,516.694824"
+              class="170007 105361" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1446.317627,865.725647 L 1539.777222,928.025696"
+              class="170007 117750" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1446.317627,865.725647 L 1437.924805,995.867065"
+              class="170007 53945" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1353.396240,695.856628 L -1472.128662,514.743774"
+              class="174029 56232" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2316.136230,-664.387573 L -2446.623779,-617.837952"
+              class="84314 140225" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2316.136230,-664.387573 L -2157.351807,-693.015198"
+              class="84314 129787" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1298.804565,-1341.663086 L 1161.011597,-1555.877441"
+              class="174187 116069" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1298.804565,-1341.663086 L 1430.902832,-1045.731812"
+              class="174187 100703" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1404.826172,-608.518616 L -1387.837036,-766.371521"
+              class="168896 100383" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -322.002655,-95.604851 L -193.623856,-58.184021"
+              class="23516 214249" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1891.790894,-1154.799194 L -1912.365967,-1310.056519"
+              class="147186 38220" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1891.790894,-1154.799194 L -1849.372314,-967.460754"
+              class="147186 96640" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.400340,157.688400 L -36.625317,4.189773"
+              class="229537 20151" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L 37.405663,-237.033295"
+              class="20151 211664" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L 137.734680,-83.345505"
+              class="20151 222710" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L 137.064148,25.615116"
+              class="20151 197663" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -89.098000,125.767517"
+              class="20151 214952" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L 52.480911,118.980988"
+              class="20151 224615" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -87.725975,194.286880"
+              class="20151 202193" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L 172.707596,-27.355236"
+              class="20151 214334" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -43.445606,-192.028946"
+              class="20151 226794" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -196.526016,72.777901"
+              class="20151 214581" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -149.796173,176.452408"
+              class="20151 227258" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L 100.864044,-29.201199"
+              class="20151 210859" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -193.623856,-58.184021"
+              class="20151 214249" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -141.680862,98.280670"
+              class="20151 210130" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.625317,4.189773 L -161.478104,-259.512909"
+              class="20151 214519" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -196.526016,72.777901 L -230.625732,260.990753"
+              class="214581 22184" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.235809,-754.181030 L 143.622009,-626.294983"
+              class="22943 207762" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1143.188477,2083.454834 L 1074.362671,2236.958740"
+              class="79664 156992" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1143.188477,2083.454834 L 1194.415283,1922.675293"
+              class="79664 139729" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 108.226379,-314.719513 L -70.675529,-305.613831"
+              class="21165 202406" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1941.108887,-81.145775 L 1951.394043,-9.279311"
+              class="110253 170503" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1941.108887,-81.145775 L 2073.514404,31.117224"
+              class="110253 171617" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1652.716431,-56.101295 L 1616.185791,-157.092331"
+              class="71603 172000" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1652.716431,-56.101295 L 1690.440308,25.596579"
+              class="71603 165487" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1453.195679,-1152.568359 L 1430.902832,-1045.731812"
+              class="171040 100703" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1167.118530,-734.831970 L 1229.864258,-804.129333"
+              class="164495 118916" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2667.169189,-560.813110 L -2763.602783,-542.424683"
+              class="151241 108676" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1349.875488,2291.357666 L -1289.722900,2327.007568"
+              class="172109 85730" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -260.017639,16.417442 L -230.625732,260.990753"
+              class="232623 22184" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -260.017639,16.417442 L -226.003342,-221.886276"
+              class="232623 22282" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3261.567871,4.913607 L 3235.877197,65.224548"
+              class="121858 167470" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1467.970459,-1245.369873 L 1492.534302,-1410.106445"
+              class="169909 107923" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1467.970459,-1245.369873 L 1430.902832,-1045.731812"
+              class="169909 100703" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1036.524536,185.171173 L 939.706909,177.639481"
+              class="190094 20585" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -517.166260,541.796509 L -392.514557,405.573334"
+              class="26046 225922" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1849.372314,-967.460754 L -1757.380127,-1094.435547"
+              class="96640 136760" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1735.767822,-1216.610229 L -1757.380127,-1094.435547"
+              class="108498 136760" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1551.874634,151.422409 L 1627.291016,271.745758"
+              class="138591 82527" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1551.874634,151.422409 L 1504.802979,516.694824"
+              class="138591 105361" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1551.874634,151.422409 L 1522.200317,271.576660"
+              class="138591 58471" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1563.915771,-254.078217 L 1551.874634,151.422409"
+              class="41754 138591" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1374.464355,1191.776733 L 1423.039307,1086.899170"
+              class="53581 131497" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1374.464355,1191.776733"
+              class="153845 53581" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 354.731689,-131.382019 L 379.137543,-76.280602"
+              class="222487 21153" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.785767,-41.273972 L 354.731689,-131.382019"
+              class="40570 222487" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1207.999634,-1064.312134 L 1308.539551,-888.897461"
+              class="122148 170335" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -392.224365,-1566.848755 L -409.361511,-1464.969971"
+              class="24902 215946" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1492.534302,-1410.106445 L 1505.419800,-1531.836304"
+              class="107923 173015" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1920.516968,-1424.398193 L -1912.365967,-1310.056519"
+              class="150769 38220" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1370.281738,1651.533325"
+              class="153845 46762" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.385620,453.977081 L -427.422424,617.875854"
+              class="203289 21104" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.385620,453.977081 L -230.625732,260.990753"
+              class="203289 22184" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -305.247528,-432.164948 L -226.003342,-221.886276"
+              class="214644 22282" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1787.619141,-1023.890381 L 1882.597046,-1062.560669"
+              class="113481 152076" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1242.408203,1382.636108 L 1305.461670,1363.400757"
+              class="55491 173407" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1242.408203,1382.636108"
+              class="153845 55491" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1289.722900,2327.007568 L -1349.880371,2363.735596"
+              class="85730 172305" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1511.053589,-651.531677 L 1430.902832,-1045.731812"
+              class="174016 100703" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1563.915771,-254.078217 L 1511.053589,-651.531677"
+              class="41754 174016" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -89.098000,125.767517"
+              class="22184 214952" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -265.704346,419.021606"
+              class="22184 220786" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -149.796173,176.452408"
+              class="22184 227258" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -392.514557,405.573334"
+              class="22184 225922" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -87.725975,194.286880"
+              class="22184 202193" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -141.680862,98.280670"
+              class="22184 210130" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -399.984039,280.827240"
+              class="22184 231792" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -230.625732,260.990753 L -118.050415,504.370026"
+              class="22184 232636" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.675529,-305.613831 L -226.003342,-221.886276"
+              class="202406 22282" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1651.518799,74.302673 L -1734.108276,-165.251862"
+              class="87533 138960" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1490.970337,-1014.809814 L 1402.409180,-958.628052"
+              class="149229 67496" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.785767,-41.273972 L 172.707596,-27.355236"
+              class="40570 214334" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.785767,-41.273972 L 137.734680,-83.345505"
+              class="40570 222710" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.785767,-41.273972 L 137.064148,25.615116"
+              class="40570 197663" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 100.864044,-29.201199 L 292.785767,-41.273972"
+              class="210859 40570" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1308.539551,-888.897461 L 1123.488403,-942.456360"
+              class="170335 42019" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1308.539551,-888.897461 L 1402.409180,-958.628052"
+              class="170335 67496" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1308.539551,-888.897461 L 1229.864258,-804.129333"
+              class="170335 118916" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1497.238525,-925.945862 L 1308.539551,-888.897461"
+              class="65741 170335" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1300.141235,1505.145142 L 1246.687012,1731.043457"
+              class="153845 112455" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 986.680786,2388.622314 L 1074.362671,2236.958740"
+              class="53953 156992" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 986.680786,2388.622314 L 878.387939,2513.841797"
+              class="53953 176625" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -767.294067,-1137.639893 L -862.097900,-1136.281372"
+              class="215661 20588" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1622.965942,-231.320953 L -1734.108276,-165.251862"
+              class="113979 138960" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1563.915771,-254.078217 L 1616.185791,-157.092331"
+              class="41754 172000" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1246.687012,1731.043457 L 1194.415283,1922.675293"
+              class="112455 139729" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 836.544189,-1079.786987 L 743.158386,-1136.502686"
+              class="99598 162154" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 836.544189,-1079.786987 L 964.402283,-1011.894287"
+              class="99598 162153" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 900.217163,1815.652222 L 946.134949,1740.727417"
+              class="42632 131449" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.050415,504.370026 L 2.491502,716.419556"
+              class="232636 23084" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.435669,857.682129 L 446.228516,951.708374"
+              class="232638 23663" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 113.975632,226.420853 L 52.480911,118.980988"
+              class="21786 224615" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1679.969727,368.460022 L 1627.291016,271.745758"
+              class="142647 82527" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1734.108276,-165.251862 L -1739.210083,-70.365982"
+              class="138960 52931" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1734.108276,-165.251862 L -1807.705444,-94.164063"
+              class="138960 120367" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1734.108276,-165.251862 L -1825.745117,-426.293976"
+              class="138960 95385" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1468.310913,-867.841370 L -1387.837036,-766.371521"
+              class="129493 100383" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1849.372314,-967.460754 L -1984.833496,-940.061523"
+              class="96640 129785" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1849.372314,-967.460754 L -1704.578613,-966.714722"
+              class="96640 129483" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2157.351807,-693.015198 L -2055.546631,-830.193298"
+              class="129787 39925" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2157.351807,-693.015198 L -2068.318604,-570.187744"
+              class="129787 60617" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1984.833496,-940.061523 L -2055.546631,-830.193298"
+              class="129785 39925" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1633.886963,2317.765869 L -1727.450684,2308.729492"
+              class="81656 161531" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1633.886963,2317.765869 L -1532.137695,2324.196777"
+              class="81656 162012" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1958.685425,-473.562683 L -2068.318604,-570.187744"
+              class="145505 60617" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1123.488403,-942.456360 L 964.402283,-1011.894287"
+              class="42019 162153" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1497.238525,-925.945862 L 1658.595215,-975.378418"
+              class="65741 171849" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.491502,716.419556 L -6.020986,889.783997"
+              class="23084 196325" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.491502,716.419556 L 173.853348,765.007690"
+              class="23084 199078" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1442.875488,1696.309692 L -1512.734619,1644.428589"
+              class="21599 204918" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1958.685425,-473.562683 L -1825.745117,-426.293976"
+              class="145505 95385" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1773.045776,1631.824951 L -1691.351807,1614.991699"
+              class="22660 215733" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1804.440552,2298.732422 L -1727.450684,2308.729492"
+              class="93261 161531" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -265.704346,419.021606 L -285.680603,544.380249"
+              class="220786 20571" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -512.690063,735.025146 L -427.422424,617.875854"
+              class="195002 21104" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -6.020986,889.783997 L -11.660254,1016.659607"
+              class="196325 23771" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1787.619141,-1023.890381 L 1658.595215,-975.378418"
+              class="113481 171849" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 379.262909,885.469910 L 446.228516,951.708374"
+              class="227284 23663" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 927.786438,2619.821045 L 878.387939,2513.841797"
+              class="112367 176625" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -933.544495,-1108.278442 L -862.097900,-1136.281372"
+              class="201732 20588" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1437.924805,995.867065 L 1423.039307,1086.899170"
+              class="53945 131497" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2942.924316,-576.763855 L 2870.945557,-578.317017"
+              class="85556 161406" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1512.734619,1644.428589 L -1598.642822,1578.151855"
+              class="204918 20281" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1074.362671,2236.958740 L 1131.169922,2360.942383"
+              class="156992 74153" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 355.007751,523.681763 L 334.044495,280.935028"
+              class="214611 22922" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1691.351807,1614.991699 L -1598.642822,1578.151855"
+              class="215733 20281" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2845.686279,-508.698334 L 2870.945557,-578.317017"
+              class="45728 161406" stroke-opacity="0.49803922" stroke="#5c5c5c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.80091" cx="793.551"
+                class="44916" cy="1819.2096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.209278" cx="-1308.58"
+                class="167896" cy="-859.8817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.330248" cx="717.0598"
+                class="129379" cy="1896.5961" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.057413" cx="96.715866"
+                class="40261" cy="-450.39502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.058407" cx="464.26685"
+                class="197662" cy="-62.740475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.55797" cx="833.2593"
+                class="168637" cy="-2025.828" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.240574" cx="2245.7468"
+                class="132298" cy="191.65285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.101887" cx="1516.6987"
+                class="171313" cy="1581.7974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.461922" cx="-391.08286"
+                class="201400" cy="-804.6095" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.20734" cx="-370.50674"
+                class="201378" cy="-1077.9587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.021173" cx="-2383.229"
+                class="124471" cy="-708.7835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.245333" cx="-1587.2361"
+                class="44587" cy="684.59204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.157093" cx="2653.7349"
+                class="174769" cy="1375.1407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.995483" cx="807.0273"
+                class="224830" cy="159.57132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.697887" cx="-1426.3982"
+                class="65943" cy="2327.7886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="23.198402" cx="-415.84048"
+                class="21784" cy="-955.91846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.65554" cx="-1573.8214"
+                class="60228" cy="-938.78827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.575312" cx="1036.3906"
+                class="171939" cy="-1742.8164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.347069" cx="2173.8738"
+                class="56902" cy="119.93683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.549732" cx="-1441.2494"
+                class="41593" cy="-453.89713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.054323" cx="-3007.8477"
+                class="137218" cy="-528.15155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.058407" cx="431.18637"
+                class="208714" cy="-161.7979" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.54445" cx="641.6433"
+                class="21247" cy="130.34155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.129166" cx="-354.1592"
+                class="21243" cy="-627.3886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.240894" cx="1414.7153"
+                class="136015" cy="1723.5145" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.474354" cx="-205.19324"
+                class="201199" cy="137.11359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.012053" cx="1103.6373"
+                class="173631" cy="-1210.2725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.776243" cx="-1896.8121"
+                class="129595" cy="-1047.3" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.101646" cx="1216.053"
+                class="78838" cy="1624.9753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.215666" cx="1377.4935"
+                class="60849" cy="-814.84174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.443228" cx="1009.8751"
+                class="85756" cy="-1328.3181" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.336334" cx="-1526.9321"
+                class="127599" cy="606.9476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="25.502335" cx="1779.4282"
+                class="173322" cy="-157.33905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.203495" cx="-150.03091"
+                class="170439" cy="-2762.9517" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.78337" cx="1266.7212"
+                class="69662" cy="-1511.4033" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="22.130215" cx="-1610.4417"
+                class="222687" cy="1262.0758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.90021" cx="160.19254"
+                class="230546" cy="148.66798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.206139" cx="-47.109528"
+                class="29187" cy="-365.9491" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="22.466782" cx="-1564.0142"
+                class="144032" cy="298.95895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.27319" cx="-1352.9296"
+                class="51248" cy="-2504.0615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.908623" cx="-1685.1823"
+                class="21178" cy="1441.261" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.026608" cx="-1999.8412"
+                class="149477" cy="-580.4684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.303104" cx="-2563.0632"
+                class="74736" cy="-584.6317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.899187" cx="340.05624"
+                class="20914" cy="744.60693" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.566214" cx="-265.46295"
+                class="20916" cy="-504.7854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.082516" cx="-1243.043"
+                class="91966" cy="869.55743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.048239" cx="-1815.3027"
+                class="143576" cy="-1121.5969" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.044876" cx="1500.6583"
+                class="163135" cy="367.21835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="38.98934" cx="1395.5308"
+                class="42228" cy="-666.32404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.78337" cx="1223.8391"
+                class="38937" cy="-966.8761" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.329847" cx="787.6859"
+                class="90575" cy="2585.1716" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.848839" cx="-1848.4043"
+                class="131859" cy="-691.48987" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.021814" cx="-1681.424"
+                class="133535" cy="-1327.1002" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.018105" cx="2632.6067"
+                class="232233" cy="-1946.2576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="23.855751" cx="439.9511"
+                class="199170" cy="92.38716" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.04316" cx="1876.6198"
+                class="73004" cy="-92.543274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.098858" cx="-138.63396"
+                class="204008" cy="-122.82985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.037468" cx="-1643.6276"
+                class="133109" cy="742.64374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.668108" cx="-596.1239"
+                class="225925" cy="665.4867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.14127" cx="2833.9944"
+                class="88608" cy="-643.5279" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="22.873207" cx="-1613.7438"
+                class="227663" cy="1466.2375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.599047" cx="-1746.8243"
+                class="126590" cy="-2478.9834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.032625" cx="-861.9544"
+                class="48715" cy="-2679.8198" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.892107" cx="-661.13403"
+                class="21069" cy="-1103.6704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.059608" cx="-327.54022"
+                class="21064" cy="-1172.8978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.32514" cx="265.4303"
+                class="209528" cy="-235.40092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.303545" cx="-1109.7687"
+                class="117494" cy="1038.6598" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.462206" cx="-1524.6285"
+                class="137929" cy="-330.54822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.030893" cx="-1943.4637"
+                class="130999" cy="-887.95825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.059448" cx="30.365292"
+                class="22817" cy="284.4556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.189283" cx="-1182.9727"
+                class="139215" cy="989.4558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.059528" cx="-527.33044"
+                class="22999" cy="288.65442" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.143522" cx="2866.8381"
+                class="129915" cy="-1472.5377" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.284014" cx="-601.75525"
+                class="20828" cy="767.38214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.55837" cx="1681.4221"
+                class="171926" cy="-300.61685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.215666" cx="1443.3584"
+                class="118526" cy="1553.2772" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.179153" cx="-2853.4172"
+                class="145651" cy="-530.4484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.020615" cx="-1377.2112"
+                class="133151" cy="-395.66125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="39.05732" cx="1488.3691"
+                class="171680" cy="-460.26666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="25.287521" cx="1114.4348"
+                class="116924" cy="1629.112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.427855" cx="-1543.5391"
+                class="23497" cy="1223.7188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.596563" cx="-423.09656"
+                class="23491" cy="-1325.7693" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="60.249016" cx="1446.3176"
+                class="170007" cy="865.72565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.216267" cx="-2898.1074"
+                class="128629" cy="715.6895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.424898" cx="-1353.3962"
+                class="174029" cy="695.8566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.005087" cx="-2316.1362"
+                class="84314" cy="-664.3876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="24.26037" cx="1298.8046"
+                class="174187" cy="-1341.6631" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.109533" cx="2959.8577"
+                class="23143" cy="727.72614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.009644" cx="587.3145"
+                class="23142" cy="-84.62817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.331593" cx="-1404.8262"
+                class="168896" cy="-608.5186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.009323" cx="-322.00266"
+                class="23516" cy="-95.60485" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.168343" cx="-1891.7909"
+                class="147186" cy="-1154.7992" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.107811" cx="1.4003402"
+                class="229537" cy="157.6884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.330328" cx="936.6357"
+                class="173578" cy="-1414.9999" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.20846" cx="542.6658"
+                class="24565" cy="144.12743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="29.028633" cx="-36.625317"
+                class="20151" cy="4.1897726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.42399" cx="-196.52602"
+                class="214581" cy="72.7779" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.009323" cx="175.23581"
+                class="22943" cy="-754.181" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="57.658443" cx="1143.1885"
+                class="79664" cy="2083.4548" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.997782" cx="108.22638"
+                class="21165" cy="-314.7195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="24.072004" cx="1941.1089"
+                class="110253" cy="-81.145775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.78337" cx="1652.7164"
+                class="71603" cy="-56.101295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.387339" cx="1453.1957"
+                class="171040" cy="-1152.5684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.216066" cx="1167.1185"
+                class="164495" cy="-734.832" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.273558" cx="-2667.1692"
+                class="151241" cy="-560.8131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.002554" cx="-1349.8755"
+                class="172109" cy="2291.3577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.971975" cx="-260.01764"
+                class="232623" cy="16.417442" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.022535" cx="3261.5679"
+                class="121858" cy="4.913607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.01424" cx="-1923.2393"
+                class="122372" cy="-628.42993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.78457" cx="1467.9705"
+                class="169909" cy="-1245.3699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.012974" cx="687.5464"
+                class="135969" cy="1833.946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.009644" cx="1036.5245"
+                class="190094" cy="185.17117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.058407" cx="-193.62386"
+                class="214249" cy="-58.18402" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.703499" cx="-517.16626"
+                class="26046" cy="541.7965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.048159" cx="-1757.3801"
+                class="136760" cy="-1094.4355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="54.58808" cx="1551.8746"
+                class="138591" cy="151.42241" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="57.44096" cx="1374.4644"
+                class="53581" cy="1191.7767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.038094" cx="354.7317"
+                class="222487" cy="-131.38202" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.182398" cx="-1735.7678"
+                class="108498" cy="-1216.6102" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.12207" cx="1207.9996"
+                class="122148" cy="-1064.3121" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.0" cx="-2734.4531"
+                class="23280" cy="1153.5072" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.490072" cx="2133.776"
+                class="21138" cy="-2246.3093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.303076" cx="2590.6692"
+                class="21136" cy="-1888.9274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.9789" cx="-1602.685"
+                class="21137" cy="1361.3555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.500439" cx="1522.2003"
+                class="58471" cy="271.57666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.20862" cx="-392.22437"
+                class="24902" cy="-1566.8488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.101646" cx="731.2216"
+                class="148243" cy="2629.3933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.255062" cx="-43.445606"
+                class="226794" cy="-192.02895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.158257" cx="-57.56567"
+                class="226798" cy="-489.52942" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.101807" cx="763.9595"
+                class="43472" cy="-2117.596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.443949" cx="1492.5343"
+                class="107923" cy="-1410.1064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.021654" cx="-1920.517"
+                class="150769" cy="-1424.3982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.347069" cx="1370.2817"
+                class="46762" cy="1651.5333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.024757" cx="-3054.1506"
+                class="43075" cy="369.75992" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.70382" cx="-337.38562"
+                class="203289" cy="453.97708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.050215" cx="-305.24753"
+                class="214644" cy="-432.16495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.216066" cx="1882.597"
+                class="152076" cy="-1062.5607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.215666" cx="1242.4082"
+                class="55491" cy="1382.6361" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.672392" cx="1690.4403"
+                class="165487" cy="25.596579" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.011492" cx="926.0369"
+                class="98351" cy="-1899.2848" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.200724" cx="-1289.7229"
+                class="85730" cy="2327.0076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="27.28353" cx="1511.0536"
+                class="174016" cy="-651.5317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="26.492302" cx="-230.62573"
+                class="22184" cy="260.99075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.672312" cx="1141.1464"
+                class="173710" cy="-1028.1901" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.748308" cx="-70.67553"
+                class="202406" cy="-305.61383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.101887" cx="1443.5422"
+                class="125317" cy="-761.0185" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.683367" cx="1161.0116"
+                class="116069" cy="-1555.8774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.377382" cx="-1651.5188"
+                class="87533" cy="74.30267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.101887" cx="1490.9703"
+                class="149229" cy="-1014.8098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="23.47433" cx="292.78577"
+                class="40570" cy="-41.27397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="40.254704" cx="1308.5396"
+                class="170335" cy="-888.89746" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.548243" cx="137.06415"
+                class="197663" cy="25.615116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.079498" cx="-2216.956"
+                class="55120" cy="2485.9246" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="80.0" cx="1300.1412"
+                class="153845" cy="1505.1451" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="55.604626" cx="986.6808"
+                class="53953" cy="2388.6223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.255062" cx="-767.29407"
+                class="215661" cy="-1137.6399" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.942154" cx="379.13754"
+                class="21153" cy="-76.2806" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.573492" cx="-1622.966"
+                class="113979" cy="-231.32095" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="57.312695" cx="1563.9158"
+                class="41754" cy="-254.07822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="57.84437" cx="1246.687"
+                class="112455" cy="1731.0435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.67151" cx="836.5442"
+                class="99598" cy="-1079.787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.058407" cx="143.62201"
+                class="207762" cy="-626.295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="57.98081" cx="1194.4153"
+                class="139729" cy="1922.6753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.075235" cx="3235.8772"
+                class="167470" cy="65.22455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.101646" cx="900.21716"
+                class="42632" cy="1815.6522" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.11744" cx="-118.050415"
+                class="232636" cy="504.37003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.079226" cx="430.43567"
+                class="232638" cy="857.6821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.234764" cx="158.86101"
+                class="153669" cy="2915.2617" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.066555" cx="52.48091"
+                class="224615" cy="118.98099" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.009964" cx="-577.1724"
+                class="23299" cy="-2738.9468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.009563" cx="528.09924"
+                class="23298" cy="-246.11093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.548243" cx="100.864044"
+                class="210859" cy="-29.201199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="23.081654" cx="-226.00334"
+                class="22282" cy="-221.88628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.403513" cx="-409.3615"
+                class="215946" cy="-1464.97" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.216146" cx="1679.9697"
+                class="142647" cy="368.46002" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="24.184998" cx="-1734.1083"
+                class="138960" cy="-165.25186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.460684" cx="-2446.6238"
+                class="140225" cy="-617.83795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.029379" cx="-1468.3109"
+                class="129493" cy="-867.8414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.11926" cx="-1255.1926"
+                class="117024" cy="-940.76575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.216387" cx="-1256.4025"
+                class="148774" cy="956.51855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.149368" cx="-2935.6074"
+                class="61408" cy="-525.83435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.620867" cx="-700.03076"
+                class="90488" cy="2860.0747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="22.569696" cx="-161.4781"
+                class="214519" cy="-259.5129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.107811" cx="-399.98404"
+                class="231792" cy="280.82724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.965015" cx="-1849.3723"
+                class="96640" cy="-967.46075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.102335" cx="-2157.3518"
+                class="129787" cy="-693.0152" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.030893" cx="-1984.8335"
+                class="129785" cy="-940.0615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.657177" cx="-1633.887"
+                class="81656" cy="2317.7659" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.755194" cx="-2068.3186"
+                class="60617" cy="-570.18774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.920458" cx="-1472.1287"
+                class="56232" cy="514.7438" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.016167" cx="-936.2276"
+                class="23472" cy="2689.265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.89643" cx="1123.4884"
+                class="42019" cy="-942.45636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.747898" cx="-392.51456"
+                class="225922" cy="405.57333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.670149" cx="1497.2385"
+                class="65741" cy="-925.94586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.775398" cx="2.4915023"
+                class="23084" cy="716.41956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.043915" cx="-1442.8755"
+                class="21599" cy="1696.3097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.299788" cx="-2055.5466"
+                class="39925" cy="-830.1933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.101646" cx="1539.7772"
+                class="117750" cy="928.0257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.78337" cx="964.4023"
+                class="162153" cy="-1011.8943" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.215693" cx="743.1584"
+                class="162154" cy="-1136.5027" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.214987" cx="-513.56415"
+                class="87146" cy="2855.214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.254139" cx="2960.6367"
+                class="21140" cy="400.2184" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.358833" cx="-357.2659"
+                class="21142" cy="2704.6504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.937466" cx="-1958.6854"
+                class="145505" cy="-473.56268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.043915" cx="-1773.0458"
+                class="22660" cy="1631.825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.068836" cx="-1804.4406"
+                class="93261" cy="2298.7324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.0001" cx="1507.4032"
+                class="43645" cy="-2635.8618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.923174" cx="-545.68976"
+                class="201285" cy="-1040.2561" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.058691" cx="-265.70435"
+                class="220786" cy="419.0216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.52322" cx="-512.69006"
+                class="195002" cy="735.02515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.42399" cx="-87.725975"
+                class="202193" cy="194.28688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.47922" cx="-10.014485"
+                class="134428" cy="2773.162" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.210382" cx="-2763.6028"
+                class="108676" cy="-542.4247" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.11766" cx="-1912.366"
+                class="38220" cy="-1310.0565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.101887" cx="1305.4617"
+                class="173407" cy="1363.4008" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.666626" cx="-1727.4507"
+                class="161531" cy="2308.7295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.101887" cx="1505.4198"
+                class="173015" cy="-1531.8363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="26.504839" cx="548.9495"
+                class="137067" cy="-2847.4268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.735487" cx="-6.0209856"
+                class="196325" cy="889.784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.041" cx="113.97563"
+                class="21786" cy="226.42085" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.672392" cx="1242.357"
+                class="174214" cy="-1639.1862" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.020615" cx="-1807.7054"
+                class="120367" cy="-94.16406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.123304" cx="-1139.2467"
+                class="171010" cy="949.37396" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.329527" cx="1787.6191"
+                class="113481" cy="-1023.8904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.673752" cx="-1704.5786"
+                class="129483" cy="-966.7147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.037361" cx="939.7069"
+                class="20585" cy="177.63948" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.042313" cx="-168.59521"
+                class="172017" cy="2616.8826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.079226" cx="379.2629"
+                class="227284" cy="885.4699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.146965" cx="-2009.259"
+                class="123639" cy="-2268.1646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.12874" cx="1951.394"
+                class="170503" cy="-9.279311" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.329527" cx="1229.8643"
+                class="118916" cy="-804.12933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.083601" cx="927.78644"
+                class="112367" cy="2619.821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.55725" cx="1658.5952"
+                class="171849" cy="-975.3784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.050856" cx="-1349.8804"
+                class="172305" cy="2363.7356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.8837" cx="-427.87604"
+                class="201733" cy="-1154.2808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.008844" cx="-933.5445"
+                class="201732" cy="-1108.2784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.054243" cx="-1739.2101"
+                class="52931" cy="-70.36598" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.05176" cx="1151.4509"
+                class="12306" cy="-2768.3276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.981325" cx="1872.5706"
+                class="20616" cy="2596.0835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="23.678623" cx="-1672.667"
+                class="20617" cy="1205.5591" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.080414" cx="-2616.9094"
+                class="171740" cy="1469.8536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.42399" cx="-141.68086"
+                class="210130" cy="98.28067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.215666" cx="1402.4092"
+                class="67496" cy="-958.62805" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="53.946354" cx="1504.803"
+                class="105361" cy="516.6948" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="64.04758" cx="878.38794"
+                class="176625" cy="2513.8418" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.701378" cx="-11.660254"
+                class="23771" cy="1016.6596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.053883" cx="1423.0393"
+                class="131497" cy="1086.8992" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.260256" cx="2942.9243"
+                class="85556" cy="-576.76385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.41274" cx="-1387.837"
+                class="100383" cy="-766.3715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.598608" cx="172.7076"
+                class="214334" cy="-27.355236" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.165756" cx="-1055.8864"
+                class="169952" cy="-2531.3604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.076424" cx="-1512.7346"
+                class="204918" cy="1644.4286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="59.78425" cx="1074.3627"
+                class="156992" cy="2236.9587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.582146" cx="355.00775"
+                class="214611" cy="523.68176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.076424" cx="-1691.3518"
+                class="215733" cy="1614.9917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.340693" cx="2845.6863"
+                class="45728" cy="-508.69833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="21.497305" cx="37.405663"
+                class="211664" cy="-237.0333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="25.258495" cx="946.13495"
+                class="131449" cy="1740.7274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.725319" cx="2919.0063"
+                class="23048" cy="-1065.7681" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.471813" cx="-687.99744"
+                class="23046" cy="2484.505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="23.61452" cx="1806.8834"
+                class="23047" cy="-2454.69" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.208035" cx="178.12524"
+                class="45866" cy="-2778.4053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="22.700989" cx="2073.5144"
+                class="171617" cy="31.117224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="23.360613" cx="-1598.6428"
+                class="20281" cy="1578.1519" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.022703" cx="1437.9248"
+                class="53945" cy="995.86707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.207579" cx="-862.0979"
+                class="20588" cy="-1136.2814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="22.784405" cx="-1825.7451"
+                class="95385" cy="-426.29398" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.548243" cx="137.73468"
+                class="222710" cy="-83.345505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="21.645437" cx="334.0445"
+                class="22922" cy="280.93503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.64757" cx="-1532.1377"
+                class="162012" cy="2324.1968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.101646" cx="1131.1699"
+                class="74153" cy="2360.9424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.085682" cx="2870.9456"
+                class="161406" cy="-578.317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="27.290895" cx="1430.9028"
+                class="100703" cy="-1045.7318" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.61502" cx="-427.42242"
+                class="21104" cy="617.87585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.329527" cx="1627.291"
+                class="82527" cy="271.74576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.357273" cx="446.22852"
+                class="23663" cy="951.7084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.42399" cx="-149.79617"
+                class="227258" cy="176.45241" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.42399" cx="-89.098"
+                class="214952" cy="125.76752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="22.374008" cx="-349.54706"
+                class="201748" cy="-735.34344" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.169756" cx="-285.6806"
+                class="20571" cy="544.38025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bcaff" r="20.002857" cx="2898.163"
+                class="43420" cy="-1422.7506" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="20.403044" cx="173.85335"
+                class="199078" cy="765.0077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb970" r="25.350176" cx="1616.1858"
+                class="172000" cy="-157.09233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="793.551" y="1821.8185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="44916">
+            Liu, Chun-Chieh
+        </text>
+        <text font-size="12" x="-1308.58" y="-857.661" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="167896">
+            CAVIAR FINANCE LIMITED
+        </text>
+        <text font-size="12" x="717.0598" y="1898.8182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129379">
+            EASY-LAND ENTERPRISES GROUP LIMITED
+        </text>
+        <text font-size="12" x="96.715866" y="-448.17285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="40261">
+            Marea Jean O&apos;Toole
+        </text>
+        <text font-size="12" x="464.26685" y="-60.518307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="197662">
+            JAVIBORNE HOLDINGS LTD
+        </text>
+        <text font-size="12" x="833.2593" y="-2023.0126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="168637">
+            Shinning Gold (Samoa) Industry Co, Ltd
+        </text>
+        <text font-size="12" x="2245.7468" y="193.87502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="132298">
+            CYBER TECHNOLOGY GROUP HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="1516.6987" y="1584.6128" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171313">
+            Capital Gateway Limited
+        </text>
+        <text font-size="12" x="-391.08286" y="-801.79407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201400">
+            kinnersley Premier Corp.
+        </text>
+        <text font-size="12" x="-370.50674" y="-1075.1433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201378">
+            Tintagel Partners Corporation
+        </text>
+        <text font-size="12" x="-2383.229" y="-705.9681" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="124471">
+            VSC China Engineering Limited
+        </text>
+        <text font-size="12" x="-1587.2361" y="687.4075" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="44587">
+            Cheung Kwok Tung
+        </text>
+        <text font-size="12" x="2653.7349" y="1377.7511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="174769">
+            HUA YIN HOLDING CO., LTD.
+        </text>
+        <text font-size="12" x="807.0273" y="162.38675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="224830">
+            Sveaborg Securities S.A.
+        </text>
+        <text font-size="12" x="-1426.3982" y="2330.5674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="65943">
+            Ng Mui Hong Irene
+        </text>
+        <text font-size="12" x="-415.84048" y="-953.69775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21784">
+            FRANSINE MANAGEMENT SERVICE S.A.
+        </text>
+        <text font-size="12" x="-1573.8214" y="-936.60565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="60228">
+            Xie Hailin
+        </text>
+        <text font-size="12" x="1036.3906" y="-1740.0361" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171939">
+            Fortune International Development Group Limited
+        </text>
+        <text font-size="12" x="2173.8738" y="122.15753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="56902">
+            Chou Chien-Hua
+        </text>
+        <text font-size="12" x="-1441.2494" y="-451.67642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="41593">
+            Li Chun
+        </text>
+        <text font-size="12" x="-3007.8477" y="-525.9294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="137218">
+            GAEA INTERNATIONAL BIOTECH INC.
+        </text>
+        <text font-size="12" x="431.18637" y="-159.57573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="208714">
+            PYTHONMIX LIMITED
+        </text>
+        <text font-size="12" x="641.6433" y="133.15698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21247">
+            Brenda Patricia Cocksedge
+        </text>
+        <text font-size="12" x="-354.1592" y="-624.60834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21243">
+            Manuel Carrera Lopez
+        </text>
+        <text font-size="12" x="1414.7153" y="1726.3021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="136015">
+            e-Wave21 Technology Inc.
+        </text>
+        <text font-size="12" x="-205.19324" y="139.92902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201199">
+            Stimroy Trade, Inc.
+        </text>
+        <text font-size="12" x="1103.6373" y="-1208.0503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173631">
+            YUSHENG TECHNOLOGY LIMITED
+        </text>
+        <text font-size="12" x="-1896.8121" y="-1045.0793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129595">
+            SIMPLEX CAPITAL ASIA LIMITED
+        </text>
+        <text font-size="12" x="1216.053" y="1627.7542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="78838">
+            Wu, Li-Ling
+        </text>
+        <text font-size="12" x="1377.4935" y="-812.0263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="60849">
+            Lin, Chia-Jung
+        </text>
+        <text font-size="12" x="1009.8751" y="-1325.5027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="85756">
+            Hsin, Fang-Chuan
+        </text>
+        <text font-size="12" x="-1526.9321" y="609.16974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="127599">
+            MUST GOLD HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="1779.4282" y="-155.11688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173322">
+            CHI-RONG INTERNATIONAL MANAGEMENT COMPANY LIMITED
+        </text>
+        <text font-size="12" x="-150.03091" y="-2760.1362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="170439">
+            Symtron Technology (Cayman) Inc.
+        </text>
+        <text font-size="12" x="1266.7212" y="-1508.7944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="69662">
+            TSAI, SHUN-KUN
+        </text>
+        <text font-size="12" x="-1610.4417" y="1264.2965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="222687">
+            Saltex Lemster S.A.
+        </text>
+        <text font-size="12" x="160.19254" y="151.48341" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="230546">
+            Sproyhale Ltd.
+        </text>
+        <text font-size="12" x="-47.109528" y="-363.1703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="29187">
+            Mavri Pitta Panayiota
+        </text>
+        <text font-size="12" x="-1564.0142" y="301.5693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="144032">
+            CHINA CONCORD ALLIANCE CO., LTD.
+        </text>
+        <text font-size="12" x="-1352.9296" y="-2501.2827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="51248">
+            Ng Mui Hong
+        </text>
+        <text font-size="12" x="-1685.1823" y="1444.0779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21178">
+            Suomenlinna Inter Oy
+        </text>
+        <text font-size="12" x="-1999.8412" y="-578.2462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="149477">
+            CENTURY SINO GLOBAL SERVICES LIMITED
+        </text>
+        <text font-size="12" x="-2563.0632" y="-581.8529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="74736">
+            YU Dong
+        </text>
+        <text font-size="12" x="340.05624" y="747.38574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20914">
+            Elizabeth Mary Fox
+        </text>
+        <text font-size="12" x="-265.46295" y="-502.5647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20916">
+            Damian James Calderbank
+        </text>
+        <text font-size="12" x="-1243.043" y="872.33624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="91966">
+            Zhang Yang
+        </text>
+        <text font-size="12" x="-1815.3027" y="-1119.3748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="143576">
+            EAST DRAGON GROUP LIMITED
+        </text>
+        <text font-size="12" x="1500.6583" y="369.962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="163135">
+            Apex Matrix Advisors Limited
+        </text>
+        <text font-size="12" x="1395.5308" y="-663.71515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="42228">
+            Liu, Chin-I
+        </text>
+        <text font-size="12" x="1223.8391" y="-964.06067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="38937">
+            Chen, Ming
+        </text>
+        <text font-size="12" x="787.6859" y="2587.987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="90575">
+            Wang, Shu-chen
+        </text>
+        <text font-size="12" x="-1848.4043" y="-689.2677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="131859">
+            ANGOLA GROUP HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="-1681.424" y="-1324.878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="133535">
+            GAINET OFFSHORE LIMITED
+        </text>
+        <text font-size="12" x="2632.6067" y="-1943.4773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="232233">
+            Transvaal Development S.A.
+        </text>
+        <text font-size="12" x="439.9511" y="94.60933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="199170">
+            FARMASTORE LIMITED
+        </text>
+        <text font-size="12" x="1876.6198" y="-89.727844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="73004">
+            Lee, Cheng-Hung
+        </text>
+        <text font-size="12" x="-138.63396" y="-120.609146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="204008">
+            SIBERIA Metals Ltd.
+        </text>
+        <text font-size="12" x="-1643.6276" y="744.8659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="133109">
+            COLORAY DIGITAL TECHNOLOGY HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="-596.1239" y="668.3021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="225925">
+            Imex trading Group Ltd.
+        </text>
+        <text font-size="12" x="2833.9944" y="-640.71246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="88608">
+            Chong Kok Kong
+        </text>
+        <text font-size="12" x="-1613.7438" y="1468.4597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="227663">
+            SELT INTERHOLD LTD.
+        </text>
+        <text font-size="12" x="-1746.8243" y="-2476.7612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="126590">
+            PC PARTNER HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="-861.9544" y="-2677.599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="48715">
+            STELLA PE PECK LUAN
+        </text>
+        <text font-size="12" x="-661.13403" y="-1100.8916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21069">
+            Henry Alexander Rosas Morales
+        </text>
+        <text font-size="12" x="-327.54022" y="-1170.1542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21064">
+            Kellee Monique France
+        </text>
+        <text font-size="12" x="265.4303" y="-232.62212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="209528">
+            Lynnewood Limited
+        </text>
+        <text font-size="12" x="-1109.7687" y="1040.8424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="117494">
+            Zhou Yuan
+        </text>
+        <text font-size="12" x="-1524.6285" y="-328.32605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="137929">
+            JOIN BRIGHT INDUSTRIAL LIMITED
+        </text>
+        <text font-size="12" x="-1943.4637" y="-885.77563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="130999">
+            Insure Touch Limited
+        </text>
+        <text font-size="12" x="30.365292" y="287.2344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22817">
+            The Hon Andrew Moray stuart
+        </text>
+        <text font-size="12" x="-1182.9727" y="991.678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="139215">
+            KING JOY GROUP LIMITED
+        </text>
+        <text font-size="12" x="-527.33044" y="291.43323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22999">
+            Mr. Jason Hughes
+        </text>
+        <text font-size="12" x="2866.8381" y="-1469.9274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129915">
+            SHING TAK INTERNATIONAL CO., LTD.
+        </text>
+        <text font-size="12" x="-601.75525" y="769.60284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20828">
+            Mr. Damian Calderbank
+        </text>
+        <text font-size="12" x="1681.4221" y="-297.83804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171926">
+            Pan-Asia Holding Limited
+        </text>
+        <text font-size="12" x="1443.3584" y="1556.0927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="118526">
+            Tsai, Cheng-Che
+        </text>
+        <text font-size="12" x="-2853.4172" y="-528.22626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="145651">
+            GOLDEN LINE SHIPPING ENTERPRISE LIMITED
+        </text>
+        <text font-size="12" x="-1377.2112" y="-393.4391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="133151">
+            INCARD DIGITAL TECHNOLOGIES LIMITED
+        </text>
+        <text font-size="12" x="1488.3691" y="-458.08405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171680">
+            Treston Limited
+        </text>
+        <text font-size="12" x="1114.4348" y="1631.9275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="116924">
+            Chang, Chia-Jung
+        </text>
+        <text font-size="12" x="-1543.5391" y="1225.9395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23497">
+            Stella G. Port Louis
+        </text>
+        <text font-size="12" x="-423.09656" y="-1323.5867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23491">
+            Natalia Patsalidou
+        </text>
+        <text font-size="12" x="1446.3176" y="867.9478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="170007">
+            DRAMEXCHANGE.COM CORPORATION
+        </text>
+        <text font-size="12" x="-2898.1074" y="718.4683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="128629">
+            TechFoster Technology Ventures Ltd.
+        </text>
+        <text font-size="12" x="-1353.3962" y="698.07733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="174029">
+            PRIME RISE ENTERPRISE LIMITED
+        </text>
+        <text font-size="12" x="-2316.1362" y="-662.2035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="84314">
+            Zhou Jian
+        </text>
+        <text font-size="12" x="1298.8046" y="-1338.8477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="174187">
+            Hsin Kuang International Co., Ltd.
+        </text>
+        <text font-size="12" x="2959.8577" y="730.50494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23143">
+            John Wortley - Hunt
+        </text>
+        <text font-size="12" x="587.3145" y="-82.406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23142">
+            MATTHEW CHALRES STOKES
+        </text>
+        <text font-size="12" x="-1404.8262" y="-606.33453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="168896">
+            Jasmine Limited
+        </text>
+        <text font-size="12" x="-322.00266" y="-92.82604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23516">
+            Michael Doyle
+        </text>
+        <text font-size="12" x="-1891.7909" y="-1152.5785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="147186">
+            WEALTH ACE ENTERPRISES LIMITED
+        </text>
+        <text font-size="12" x="1.4003402" y="160.46867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="229537">
+            Cambell Industries, Corp.
+        </text>
+        <text font-size="12" x="936.6357" y="-1412.3895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173578">
+            LIAN-FONG TECHNOLOGY CO., LTD.
+        </text>
+        <text font-size="12" x="542.6658" y="146.34813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="24565">
+            Damain Calderbank
+        </text>
+        <text font-size="12" x="-36.625317" y="6.4104757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20151">
+            Matthew Charles Stokes
+        </text>
+        <text font-size="12" x="-196.52602" y="74.998604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214581">
+            Clessforth Ltd.
+        </text>
+        <text font-size="12" x="175.23581" y="-751.95886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22943">
+            MATTHEW CHARLES STOKES
+        </text>
+        <text font-size="12" x="1143.1885" y="2086.0637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="79664">
+            CHEN, Hsiu-Hui
+        </text>
+        <text font-size="12" x="108.22638" y="-312.4988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21165">
+            Jesse Grant Hester
+        </text>
+        <text font-size="12" x="1941.1089" y="-78.53689" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="110253">
+            LEE, CHENG-CHUNG
+        </text>
+        <text font-size="12" x="1652.7164" y="-53.49241" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="71603">
+            CHIEN, MEI-LING
+        </text>
+        <text font-size="12" x="1453.1957" y="-1149.7881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171040">
+            Tenpua Investment Corp.
+        </text>
+        <text font-size="12" x="1167.1185" y="-732.0517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="164495">
+            Double Capital Inc.
+        </text>
+        <text font-size="12" x="-2667.1692" y="-558.5924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="151241">
+            EVER EXPRESS INVESTMENTS LIMITED
+        </text>
+        <text font-size="12" x="-1349.8755" y="2293.5798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="172109">
+            ASSOCIATED GENERAL DISTRIBUTORS PTE. LTD.
+        </text>
+        <text font-size="12" x="-260.01764" y="19.234337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="232623">
+            Suburbs Oil Field Supply&amp; Services Inc
+        </text>
+        <text font-size="12" x="3261.5679" y="7.6924157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="121858">
+            Huang Ben Liang
+        </text>
+        <text font-size="12" x="-1923.2393" y="-625.6511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="122372">
+            Zhong Wenxin
+        </text>
+        <text font-size="12" x="1467.9705" y="-1243.1492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="169909">
+            CYBER WELL INC.
+        </text>
+        <text font-size="12" x="687.5464" y="1836.1682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="135969">
+            SIGNAX TECHNOLOGY CAPITAL INC.
+        </text>
+        <text font-size="12" x="1036.5245" y="187.9866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="190094">
+            Waterloo Shipping Inc.
+        </text>
+        <text font-size="12" x="-193.62386" y="-55.611755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214249">
+            Azor Business, Ltd.
+        </text>
+        <text font-size="12" x="-517.16626" y="544.0172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="26046">
+            NARESH SANTHANAM
+        </text>
+        <text font-size="12" x="-1757.3801" y="-1092.2134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="136760">
+            CAPITAL BRIDGE HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="1551.8746" y="153.64458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="138591">
+            NU-BIO TECH INC.
+        </text>
+        <text font-size="12" x="1374.4644" y="1194.5922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="53581">
+            Tseng, Ching-Hui
+        </text>
+        <text font-size="12" x="354.7317" y="-129.15985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="222487">
+            Orsford Ltd.
+        </text>
+        <text font-size="12" x="-1735.7678" y="-1214.4276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="108498">
+            Mao Zhenhua
+        </text>
+        <text font-size="12" x="1207.9996" y="-1061.7032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="122148">
+            Lin, Chia-Hui
+        </text>
+        <text font-size="12" x="-2734.4531" y="1156.286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23280">
+            John Worltry- Hunt
+        </text>
+        <text font-size="12" x="2133.776" y="-2243.4924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21138">
+            Suomelinna Inter Oy
+        </text>
+        <text font-size="12" x="2590.6692" y="-1886.1105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21136">
+            Olavinlinna Invest Oy
+        </text>
+        <text font-size="12" x="-1602.685" y="1364.1724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21137">
+            Olavinlinna Invest Oy
+        </text>
+        <text font-size="12" x="1522.2003" y="274.18555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="58471">
+            Chen, Yu-Ta
+        </text>
+        <text font-size="12" x="-392.22437" y="-1564.628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="24902">
+            Shane Michael Smith
+        </text>
+        <text font-size="12" x="731.2216" y="2631.6155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="148243">
+            BLUESTORK TECHNOLOGY COMPANY LTD.
+        </text>
+        <text font-size="12" x="-43.445606" y="-189.21205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="226794">
+            Oguster Management, Ltd.
+        </text>
+        <text font-size="12" x="-57.56567" y="-486.71252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="226798">
+            Oxart Holding, Inc.
+        </text>
+        <text font-size="12" x="763.9595" y="-2114.8171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="43472">
+            Yeh, Yung-Kung
+        </text>
+        <text font-size="12" x="1492.5343" y="-1407.3262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="107923">
+            Reduction of Capital
+        </text>
+        <text font-size="12" x="-1920.517" y="-1422.1643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="150769">
+            Auschina MinMetal&amp; Resources Co. Ltd.
+        </text>
+        <text font-size="12" x="1370.2817" y="1654.1422" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="46762">
+            Chen, Shu-Fen
+        </text>
+        <text font-size="12" x="-3054.1506" y="372.57535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="43075">
+            Yu, Yueh-Chiang
+        </text>
+        <text font-size="12" x="-337.38562" y="456.7925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="203289">
+            Holdy Impex, Corp.
+        </text>
+        <text font-size="12" x="-305.24753" y="-429.38467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214644">
+            Townhend Gain Associates Incorporated
+        </text>
+        <text font-size="12" x="1882.597" y="-1060.3385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="152076">
+            DRAGON STAR ASSETS LIMITED
+        </text>
+        <text font-size="12" x="1242.4082" y="1385.245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="55491">
+            Wu, Shu-Fen
+        </text>
+        <text font-size="12" x="1690.4403" y="28.384176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="165487">
+            Master FX6868 Management Ltd
+        </text>
+        <text font-size="12" x="926.0369" y="-1896.4694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="98351">
+            Chang, Lee-Cheng
+        </text>
+        <text font-size="12" x="-1289.7229" y="2329.2283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="85730">
+            Leow Gek Joo
+        </text>
+        <text font-size="12" x="1511.0536" y="-648.9213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="174016">
+            TT&amp;T HOLDINGS CO., LTD.
+        </text>
+        <text font-size="12" x="-230.62573" y="263.80618" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22184">
+            Stephen John Kelly
+        </text>
+        <text font-size="12" x="1141.1464" y="-1025.5797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173710">
+            SMARTâS ADAMS CO., LTD.
+        </text>
+        <text font-size="12" x="-70.67553" y="-303.04156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="202406">
+            Mondor Trade, Inc.
+        </text>
+        <text font-size="12" x="1443.5422" y="-758.87103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="125317">
+            ERA TALENT LIMITED
+        </text>
+        <text font-size="12" x="1161.0116" y="-1553.0986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="116069">
+            Tsai, Yung-Tsun
+        </text>
+        <text font-size="12" x="-1651.5188" y="77.1181" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="87533">
+            Cheng Yong
+        </text>
+        <text font-size="12" x="1490.9703" y="-1012.031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="149229">
+            Matrix Holding International Limited
+        </text>
+        <text font-size="12" x="292.78577" y="-38.45854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="40570">
+            Christina Cornelia Van Den Berg
+        </text>
+        <text font-size="12" x="1308.5396" y="-886.08203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="170335">
+            Infoserve Technology Corp.
+        </text>
+        <text font-size="12" x="137.06415" y="27.83582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="197663">
+            EXIM STAR LTD
+        </text>
+        <text font-size="12" x="-2216.956" y="2488.74" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="55120">
+            Chen Hong
+        </text>
+        <text font-size="12" x="1300.1412" y="1507.924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="153845">
+            M.J. Health Management International Holding Inc.
+        </text>
+        <text font-size="12" x="986.6808" y="2391.4377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="53953">
+            Lu, Jung-Chang
+        </text>
+        <text font-size="12" x="-767.29407" y="-1135.4177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="215661">
+            Tubard Overseas S.A.
+        </text>
+        <text font-size="12" x="379.13754" y="-73.46517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21153">
+            John Robert Montagu Stuart Wortley Hunt
+        </text>
+        <text font-size="12" x="-1622.966" y="-228.54214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="113979">
+            Li Rong
+        </text>
+        <text font-size="12" x="1563.9158" y="-251.85898" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="41754">
+            Forfeited
+        </text>
+        <text font-size="12" x="1246.687" y="1733.8223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="112455">
+            Lin, Mei-Ling
+        </text>
+        <text font-size="12" x="836.5442" y="-1077.0082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="99598">
+            Tsai, Yung-Lung
+        </text>
+        <text font-size="12" x="143.62201" y="-623.47955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="207762">
+            Hildon Systems, Inc.
+        </text>
+        <text font-size="12" x="1194.4153" y="1924.8579" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="139729">
+            Evermore Investment International Ltd
+        </text>
+        <text font-size="12" x="3235.8772" y="67.407166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="167470">
+            Wan Tai Limited
+        </text>
+        <text font-size="12" x="900.21716" y="1818.2611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="42632">
+            Chiu Lin, Lai-Yu
+        </text>
+        <text font-size="12" x="-118.050415" y="506.59073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="232636">
+            Creativ Business LTD
+        </text>
+        <text font-size="12" x="430.43567" y="859.9043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="232638">
+            BO Standart Inc.
+        </text>
+        <text font-size="12" x="158.86101" y="2918.0771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="153669">
+            Gbio Tech (Samoa) Inc.
+        </text>
+        <text font-size="12" x="52.48091" y="121.72464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="224615">
+            Avellan Incorporated
+        </text>
+        <text font-size="12" x="-577.1724" y="-2736.168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23299">
+            John Wortley - Hunt
+        </text>
+        <text font-size="12" x="528.09924" y="-243.88876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23298">
+            MATTHEW CHARLES STOKES
+        </text>
+        <text font-size="12" x="100.864044" y="-26.385769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="210859">
+            RIVER MANAGEMENT (BVI) LTD.
+        </text>
+        <text font-size="12" x="-226.00334" y="-219.07085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22282">
+            The Hon. Andrew Moray Stuart
+        </text>
+        <text font-size="12" x="-409.3615" y="-1462.1912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="215946">
+            Jacobs Trading Limited
+        </text>
+        <text font-size="12" x="1679.9697" y="370.6822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="142647">
+            BIG BOOM MANAGEMENT LTD
+        </text>
+        <text font-size="12" x="-1734.1083" y="-163.0297" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="138960">
+            VTRON GROUP LIMITED
+        </text>
+        <text font-size="12" x="-2446.6238" y="-615.6158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="140225">
+            MILLION WELL GROUP LIMITED
+        </text>
+        <text font-size="12" x="-1468.3109" y="-865.0245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129493">
+            RONG HUA ENERGY INVESTMENT (HONG KONG) LIMITED
+        </text>
+        <text font-size="12" x="-1255.1926" y="-937.98694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="117024">
+            James Peng
+        </text>
+        <text font-size="12" x="-1256.4025" y="959.1289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="148774">
+            PROSPEROUS INTERNATIONAL INVESTMENT GROUP CO., LTD.
+        </text>
+        <text font-size="12" x="-2935.6074" y="-523.61365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="61408">
+            Chen Jian
+        </text>
+        <text font-size="12" x="-700.03076" y="2862.2954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="90488">
+            TAN SZE LIAN CELINE
+        </text>
+        <text font-size="12" x="-161.4781" y="-257.3303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214519">
+            Prescience Investments Limited
+        </text>
+        <text font-size="12" x="-399.98404" y="283.0494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="231792">
+            MERANDO BUSINESS INC.
+        </text>
+        <text font-size="12" x="-1849.3723" y="-964.68195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="96640">
+            Bing Zhao
+        </text>
+        <text font-size="12" x="-2157.3518" y="-690.793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129787">
+            HUGE VICTORY LIMITED
+        </text>
+        <text font-size="12" x="-1984.8335" y="-937.83936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129785">
+            DATA TOUCH LIMITED
+        </text>
+        <text font-size="12" x="-1633.887" y="2319.988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="81656">
+            FRANK OLIVIER FREDERIC HAY
+        </text>
+        <text font-size="12" x="-2068.3186" y="-567.9656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="60617">
+            ZHONG Jian
+        </text>
+        <text font-size="12" x="-1472.1287" y="516.89124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="56232">
+            Li Bin
+        </text>
+        <text font-size="12" x="-936.2276" y="2692.0818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23472">
+            Olavanlinna Invest Oy
+        </text>
+        <text font-size="12" x="1123.4884" y="-939.6409" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="42019">
+            Wang, Ya-Chun
+        </text>
+        <text font-size="12" x="-392.51456" y="407.75595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="225922">
+            Euromatrix Ltd.
+        </text>
+        <text font-size="12" x="1497.2385" y="-923.16705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="65741">
+            Tsai, Hsiu-Ying
+        </text>
+        <text font-size="12" x="2.4915023" y="719.19836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23084">
+            John Wortley Hunt
+        </text>
+        <text font-size="12" x="-1442.8755" y="1699.09" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21599">
+            Ulpiano Calderon Moreno
+        </text>
+        <text font-size="12" x="-2055.5466" y="-827.9726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="39925">
+            Lian WANG
+        </text>
+        <text font-size="12" x="1539.7772" y="930.6346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="117750">
+            Lin, Ta-Chun
+        </text>
+        <text font-size="12" x="964.4023" y="-1009.0774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="162153">
+            One Way Far Company Limited
+        </text>
+        <text font-size="12" x="743.1584" y="-1133.6873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="162154">
+            Rich Far Company Limited
+        </text>
+        <text font-size="12" x="-513.56415" y="2857.9578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="87146">
+            Yuen, Philip Pak Yiu
+        </text>
+        <text font-size="12" x="2960.6367" y="403.0353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21140">
+            Suomenlinna Inter Oy
+        </text>
+        <text font-size="12" x="-357.2659" y="2706.871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21142">
+            Stella G.Port-Luis
+        </text>
+        <text font-size="12" x="-1958.6854" y="-471.3405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="145505">
+            ACHIEVE GOAL HOLDINGS LIMITED
+        </text>
+        <text font-size="12" x="-1773.0458" y="1634.0457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22660">
+            Fermin Milciades Castanedas Chacon
+        </text>
+        <text font-size="12" x="-1804.4406" y="2300.9546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="93261">
+            Osman Bin Hassan
+        </text>
+        <text font-size="12" x="1507.4032" y="-2633.2896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="43645">
+            Ho Yuk Kuen, Jade
+        </text>
+        <text font-size="12" x="-545.68976" y="-1037.5125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201285">
+            Botham Incorporated
+        </text>
+        <text font-size="12" x="-265.70435" y="421.59387" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="220786">
+            Parem Financial, Inc.
+        </text>
+        <text font-size="12" x="-512.69006" y="737.80396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="195002">
+            Indigo Marketing International, Ltd.
+        </text>
+        <text font-size="12" x="-87.725975" y="197.06715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="202193">
+            Hapsford Limited
+        </text>
+        <text font-size="12" x="-10.014485" y="2775.979" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="134428">
+            eSOON Group Holdings Corp.
+        </text>
+        <text font-size="12" x="-2763.6028" y="-539.6459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="108676">
+            Lin Jian Yang
+        </text>
+        <text font-size="12" x="-1912.366" y="-1307.2777" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="38220">
+            Yu Rong Fang
+        </text>
+        <text font-size="12" x="1305.4617" y="1366.2162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173407">
+            HealthTrend Medical Management and Consulting Inc.
+        </text>
+        <text font-size="12" x="-1727.4507" y="2310.9517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="161531">
+            CHORON INTERNATIONAL PTE. LTD.
+        </text>
+        <text font-size="12" x="1505.4198" y="-1529.0209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173015">
+            Medray Biotech (Samoa) Inc.
+        </text>
+        <text font-size="12" x="548.9495" y="-2845.206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="137067">
+            HANNSPREE INC.
+        </text>
+        <text font-size="12" x="-6.0209856" y="892.5643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="196325">
+            Keruis Business Corp.
+        </text>
+        <text font-size="12" x="113.97563" y="228.64156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21786">
+            FRANSINE MANAGEMENT SERVICES S.A.
+        </text>
+        <text font-size="12" x="1242.357" y="-1636.3707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="174214">
+            Golden Eagle Global Limited
+        </text>
+        <text font-size="12" x="-1807.7054" y="-91.94336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="120367">
+            Chen Yu
+        </text>
+        <text font-size="12" x="-1139.2467" y="952.1528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171010">
+            Top Kingdom Limited
+        </text>
+        <text font-size="12" x="1787.6191" y="-1021.2815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="113481">
+            HUANG, YU-WEN
+        </text>
+        <text font-size="12" x="-1704.5786" y="-964.49255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129483">
+            BROADWAY OFFSHORE LIMITED
+        </text>
+        <text font-size="12" x="939.7069" y="180.41829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20585">
+            Mr. Meng Jidong
+        </text>
+        <text font-size="12" x="-168.59521" y="2619.698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="172017">
+            Gamlaxy International Inc.
+        </text>
+        <text font-size="12" x="379.2629" y="887.6906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="227284">
+            CASSIDA BUSINESS LTD.
+        </text>
+        <text font-size="12" x="-2009.259" y="-2265.9805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="123639">
+            PARK AVENUE LIMITED
+        </text>
+        <text font-size="12" x="1951.394" y="-6.4638815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="170503">
+            Dar Rone International Management Company Ltd.
+        </text>
+        <text font-size="12" x="1229.8643" y="-801.3505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="118916">
+            Tsai, Li-Hsiang
+        </text>
+        <text font-size="12" x="927.78644" y="2622.5999" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="112367">
+            Ho, Tsung-Hsien
+        </text>
+        <text font-size="12" x="1658.5952" y="-972.59814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171849">
+            Profit Palace Enterprises Limited.
+        </text>
+        <text font-size="12" x="-1349.8804" y="2365.971" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="172305">
+            RICKSON TRADE&amp; FINANCE PTE. LTD.
+        </text>
+        <text font-size="12" x="-427.87604" y="-1151.5005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201733">
+            Ledwall Corporation
+        </text>
+        <text font-size="12" x="-933.5445" y="-1105.4996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201732">
+            Landway Business Ltd.
+        </text>
+        <text font-size="12" x="-1739.2101" y="-67.58717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="52931">
+            Zhang Bin
+        </text>
+        <text font-size="12" x="1151.4509" y="-2765.5107" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="12306">
+            Olavinlinna Invest Oy
+        </text>
+        <text font-size="12" x="1872.5706" y="2598.3057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20616">
+            OLAVINLINNA INVEST OY
+        </text>
+        <text font-size="12" x="-1672.667" y="1207.7812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20617">
+            SUOMENLINNA INTER OY
+        </text>
+        <text font-size="12" x="-2616.9094" y="1472.464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171740">
+            SUPERIOR TECHNOLOGY CO., LTD.
+        </text>
+        <text font-size="12" x="-141.68086" y="100.50284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="210130">
+            NORTH SEA DRILLING RIGS MANAGEMENT LTD
+        </text>
+        <text font-size="12" x="1402.4092" y="-955.8126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="67496">
+            Chang, Wen-Cheng
+        </text>
+        <text font-size="12" x="1504.803" y="519.2671" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="105361">
+            Lin, Jinn-Tsair
+        </text>
+        <text font-size="12" x="878.38794" y="2516.0625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="176625">
+            WAN CHI INVESTMENTS LIMITED
+        </text>
+        <text font-size="12" x="-11.660254" y="1019.47504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23771">
+            Sean Lee Hogan
+        </text>
+        <text font-size="12" x="1423.0393" y="1089.7146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="131497">
+            Pegasus Holding Corporation Investment Limited
+        </text>
+        <text font-size="12" x="2942.9243" y="-574.58124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="85556">
+            Mok Fee Lee
+        </text>
+        <text font-size="12" x="-1387.837" y="-763.5561" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="100383">
+            WANG Jian Sheng
+        </text>
+        <text font-size="12" x="172.7076" y="-25.171154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214334">
+            Uta Fruit Ltd.
+        </text>
+        <text font-size="12" x="-1055.8864" y="-2529.213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="169952">
+            NAV LIMITED
+        </text>
+        <text font-size="12" x="-1512.7346" y="1647.244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="204918">
+            Farewell Management S.A.
+        </text>
+        <text font-size="12" x="1074.3627" y="2239.7742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="156992">
+            Advanced Lithium Electrochemistry (Cayman) Co., Ltd.
+        </text>
+        <text font-size="12" x="355.00775" y="526.4606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214611">
+            Promsvyazcapital Limited
+        </text>
+        <text font-size="12" x="-1691.3518" y="1617.772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="215733">
+            Ecco Group Limited
+        </text>
+        <text font-size="12" x="2845.6863" y="-506.47763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="45728">
+            Celine Tan Sze Lian
+        </text>
+        <text font-size="12" x="37.405663" y="-234.25302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="211664">
+            Iriton Industries, Corp.
+        </text>
+        <text font-size="12" x="946.13495" y="1742.9467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="131449">
+            Webfoster.com Ltd.
+        </text>
+        <text font-size="12" x="2919.0063" y="-1063.5459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23048">
+            CASCADO AG
+        </text>
+        <text font-size="12" x="-687.99744" y="2486.727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23046">
+            CASCADO AG
+        </text>
+        <text font-size="12" x="1806.8834" y="-2452.4678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23047">
+            CASCADO AG
+        </text>
+        <text font-size="12" x="178.12524" y="-2775.833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="45866">
+            Ho Yuk Wah, David
+        </text>
+        <text font-size="12" x="2073.5144" y="33.896034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171617">
+            King Music International Investment Ltd.
+        </text>
+        <text font-size="12" x="-1598.6428" y="1580.3726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20281">
+            Stella G. Port-Louis
+        </text>
+        <text font-size="12" x="1437.9248" y="998.47595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="53945">
+            LIN, CHIH-HUNG
+        </text>
+        <text font-size="12" x="-862.0979" y="-1134.0607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20588">
+            Frankin Alexis Sanmartin Gonzalez
+        </text>
+        <text font-size="12" x="-1825.7451" y="-424.0718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="95385">
+            LI TAO
+        </text>
+        <text font-size="12" x="137.73468" y="-80.530075" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="222710">
+            Strightford Ltd.
+        </text>
+        <text font-size="12" x="334.0445" y="283.75046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22922">
+            Stephen John Kelly
+        </text>
+        <text font-size="12" x="-1532.1377" y="2326.4175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="162012">
+            SIN WAI PTE. LTD.
+        </text>
+        <text font-size="12" x="1131.1699" y="2363.7578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="74153">
+            CHIU Tak-Chiang
+        </text>
+        <text font-size="12" x="2870.9456" y="-576.09485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="161406">
+            MAESTRO GRAND TRADING PTE LTD
+        </text>
+        <text font-size="12" x="1430.9028" y="-1042.9515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="100703">
+            Repurchase of Shares
+        </text>
+        <text font-size="12" x="-427.42242" y="620.6913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21104">
+            Aaron Shilling
+        </text>
+        <text font-size="12" x="1627.291" y="274.35464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="82527">
+            Hsieh, Jen-Chieh
+        </text>
+        <text font-size="12" x="446.22852" y="954.5238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23663">
+            Andrew Stuart Moray
+        </text>
+        <text font-size="12" x="-149.79617" y="179.26784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="227258">
+            Tasonry Management, Corp.
+        </text>
+        <text font-size="12" x="-89.098" y="128.58295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="214952">
+            Shishi Shipping Limited
+        </text>
+        <text font-size="12" x="-349.54706" y="-732.5632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="201748">
+            Castinder Incorporated
+        </text>
+        <text font-size="12" x="-285.6806" y="546.60095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20571">
+            Colin Peter Bradford
+        </text>
+        <text font-size="12" x="2898.163" y="-1420.5299" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="43420">
+            YEH CHING-HUA
+        </text>
+        <text font-size="12" x="173.85335" y="767.22986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="199078">
+            GRODEX BUSINESS LTD.
+        </text>
+        <text font-size="12" x="1616.1858" y="-154.2769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="172000">
+            Synbio Tech (Samoa) Inc.
+        </text>
+    </g>
+</svg>
